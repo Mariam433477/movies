@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Movies",
+    "slug": "Day4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/unnamed.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/unnamed.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/unnamed.png",
+        "backgroundColor": "#000000"
+      },
+      "splash": {
+        "image": "./assets/unnamed.png",
+        "resizeMode": "cover",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/unnamed.png"
+    }
+  }
+}
